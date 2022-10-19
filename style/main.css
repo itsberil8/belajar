@@ -1,0 +1,31 @@
+.collapse a:hover {
+    background-color: silver;
+}
+.dropdown-menu a:hover{
+    background-color:burlywood;
+}
+.heading h2 {
+    font-family: oswald;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    text-align: center;
+    }
+.experience h3 {
+    font-family: oswald;
+    font-size: 20px;
+    color: crimson;
+    padding: 30px;
+    }
+.h4 h4 {
+    font-family: oswald;
+    font-size: 15px;
+    color: palevioletred;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+.paragraf p {
+    font-family: oswald;
+    text-align: justify;
+    padding: 20px;
+    }
